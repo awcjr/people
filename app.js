@@ -1,1 +1,1 @@
-console.log('people app');
+console.log('people app pushed');
